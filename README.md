@@ -1,6 +1,6 @@
 Проект на языке Python он работает с сервером Mosquito установленном на VPS сервере. Данные с датчика влажности и температуры передаются с  ESP32-S3 devkit на сервер а на плату ESP32-S3 devkit передаются команды по управлению цветом RGB с помощью модуля RMT выводятся на RGB светодиод.
 Проект на мк ESP32 https://github.com/timurtm72/esp_idf_esp32_mqtt_android
-Поект на котлин https://github.com/timurtm72/kotlin_mqtt_esp32_python
+Проект на котлин https://github.com/timurtm72/kotlin_mqtt_esp32_python
 ESP32 MQTT Графический Интерфейс
 Структура проекта
 Проект состоит из одного основного файла main.py, который содержит все необходимые компоненты для работы приложения:
