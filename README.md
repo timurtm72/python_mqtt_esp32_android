@@ -120,6 +120,7 @@ python main.py
 ```
 
 ## Связанные проекты
-- [ESP32 прошивка](https://github.com/timurtm72/esp32_mqtt_dht_rgb)
+- [ESP32 прошивка](https://github.com/timurtm72/esp_idf_esp32_mqtt_android)
 - [Flutter приложение](https://github.com/timurtm72/flutter_android_mqtt_python_esp32)
 - [Kotlin приложение](https://github.com/timurtm72/kotlin_mqtt_esp32_python)
+
